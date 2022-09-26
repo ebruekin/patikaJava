@@ -22,9 +22,9 @@ public class Fibonacci {
             int sum = prevN + nextN;
             prevN = nextN;
             nextN = sum;
-        }        
+        }      
 
-
+        inp.close();
 
     }
 }
