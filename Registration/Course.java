@@ -21,10 +21,7 @@ public class Course {
             this.teacher = teacher;
         }else{
             System.out.println("Ögretmen ve ders uyumsuz");
-        }
-       
-    }
-
-   
+        }       
+    }  
     
 }
